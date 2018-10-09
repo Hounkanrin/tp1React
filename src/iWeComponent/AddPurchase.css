@@ -1,0 +1,18 @@
+.add-user{
+    text-align: center;
+   
+}
+.add-name{
+    width: 30%
+}
+.add-cost {
+    width: 30%
+}
+.add-paidby{
+    width: 30%
+}
+.add-button {
+
+background: gray;
+
+}
